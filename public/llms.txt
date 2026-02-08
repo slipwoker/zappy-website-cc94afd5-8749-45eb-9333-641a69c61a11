@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# IMDESIGN — Generative Engine Optimization Map
+
+> A שילוט ועיצוב business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://imdesign.zappy5.app
 
 ### Services
-https://example.com/services
+https://imdesign.zappy5.app/services
 
 ### Portfolio
-https://example.com/portfolio
+https://imdesign.zappy5.app/portfolio
 
 ### Contact
-https://example.com/contact
+https://imdesign.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://imdesign.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://imdesign.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://imdesign.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About IMDESIGN
+IMDESIGN is a business in the שילוט ועיצוב industry.
+
+## Target Audience
+עסקים ואנשים פרטיים
+
+## Industry
+שילוט ועיצוב
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://imdesign.zappy5.app/sitemap.xml
+- **Robots.txt**: https://imdesign.zappy5.app/robots.txt
