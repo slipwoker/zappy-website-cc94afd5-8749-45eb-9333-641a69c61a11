@@ -1,6 +1,4 @@
-# IMDESIGN — Generative Engine Optimization Map
-
-> A שילוט ועיצוב business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About IMDESIGN
-IMDESIGN is a business in the שילוט ועיצוב industry.
-
-## Target Audience
-עסקים ואנשים פרטיים
-
-## Industry
-שילוט ועיצוב
-
+## About Business
 ---
 
 # Additional Resources
